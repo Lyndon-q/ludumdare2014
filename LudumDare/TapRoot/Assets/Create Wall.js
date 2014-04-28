@@ -1,9 +1,9 @@
 ﻿#pragma strict
 
-
+public var model : GameObject;
 
 function Start () {
-Model.SetActive(false);
+model.SetActive(false);
 
 }
 
@@ -13,6 +13,5 @@ function Update () {
 
 
 function OnTriggerEnter (other : Collider) {
-public GameObject Model;
-			Model.SetActive(true);
+			model.SetActive(true);
 }

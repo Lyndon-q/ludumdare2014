@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DirtDissapear.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Create Wall.js">
     <Files>
-      <File FileName="Assets/DirtDissapear.js" Line="13" Column="32" />
+      <File FileName="Assets/DirtDissapear.js" Line="2" Column="1" />
+      <File FileName="Assets/Create Wall.js" Line="11" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
